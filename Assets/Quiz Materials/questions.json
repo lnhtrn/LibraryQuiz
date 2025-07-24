@@ -1,0 +1,42 @@
+[
+  {
+    "questionText": "1. According to the provided information, mental illness is a diagnosable condition that primarily affects a person's...",
+    "replies": [
+      "a) Physical health and immune system.", 
+      "b) Thinking, emotional state, and behavior.", 
+      "c) Social media presence and online interactions.", 
+      "d) Financial stability and career choices."
+    ],
+    "correctReplyIndex": 1
+  },
+  {
+    "questionText": "2. Mental illness can disrupt a person's ability to do which of the following?",
+    "replies": [
+      "a) Only complex and demanding tasks.", 
+      "b) Only their preferred hobbies and leisure activities.", 
+      "c) Work, carry out daily activities, and engage in satisfying relationships.", 
+      "d) Engage in physical exercise and maintain a healthy diet."
+    ],
+    "correctReplyIndex": 2
+  },
+  {
+    "questionText": "3. When is it considered possible that a person has a diagnosable mental illness?",
+    "replies": [
+      "a) When they express an unpopular opinion.", 
+      "b) When their thinking, feeling, or behavior is outside the norm and disruptive to their daily functioning.", 
+      "c) When they experience temporary sadness or stress.", 
+      "d) When they disagree with societal expectations."
+    ],
+    "correctReplyIndex": 2
+  },
+  {
+    "questionText": "4. Which of the following is important to remember about symptoms that may appear to be related to mental illness?",
+    "replies": [
+      "a) They are always a definitive sign of a mental illness.", 
+      "b) They can only be caused by substance abuse.", 
+      "c) They might be related to other medical conditions, substance use, or medication effects.", 
+      "d) They are usually an exaggeration and not a cause for concern."
+    ],
+    "correctReplyIndex": 2
+  }
+]
