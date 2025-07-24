@@ -1,4 +1,3 @@
-
 using System;
 using System.Collections; 
 using UnityEngine;
@@ -24,6 +23,7 @@ public class QuestionManager : MonoBehaviour
 
     void Start()
     {
+        // Set up quiz board 
         // SetQuestion(currentQuestion);
         Right.gameObject.SetActive(false);
         Wrong.gameObject.SetActive(false);
@@ -34,6 +34,9 @@ public class QuestionManager : MonoBehaviour
         // Activate start scene
         GameStart.gameObject.SetActive(true);
         startButton.onClick.AddListener(StartGame);
+
+        // GameStart.SetActive(false); // Hide the start screen
+        // SetQuestion(currentQuestion); // Begin the quiz
     }
 
     void StartGame()
@@ -141,6 +144,5 @@ public class QuestionManager : MonoBehaviour
         // Set the next question 
         SetQuestion(currentQuestion);
     }
-
 
 }
